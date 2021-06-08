@@ -1,0 +1,9 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Awesome Lighting Inc."
+theme = "shopping product catalogue - simple"
+themesDir = "themes"
+publishDir = "public"
+
+[Params]
+description = ""
